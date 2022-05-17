@@ -1,4 +1,4 @@
-# Matplotlib Homework - The Power of Plots
+# [Matplotlib](pymaceuticals_starter.ipynb) Homework - The Power of Plots
 
 ## Background
 
