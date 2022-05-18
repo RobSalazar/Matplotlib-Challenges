@@ -135,7 +135,7 @@ The only potential outlier was mouse c326 in the Infubinol regimen, with a tumor
 </p>
 
 <details>
-           <summary>Boxplot</summary>
+           <summary>Regression</summary>
            <p><img src="Images/reg_corr.PNG" /> </p>
 </details>
 
